@@ -19,7 +19,7 @@
 
 %let Path = D:\Applied\;
 
-/*%include "&path.Macros.sas";*/ /*have posted the macros used in this project below*/
+/*%include "&path.Macros.sas";*/ /*I have posted the macros used in this project below*/
 
 /*libname pb "D:\Applied\Research Project";*/
 
