@@ -2,17 +2,17 @@
 
 
 		***********************************************************************************;
-		***			Author: Parker Barouch				Date: 11/11/17					***;
-		***												Last Edited: 12/11/17			***;
-		***																				***;
-		***									  Title:									***;
-		***	 	 A Study of the Causal Effects that drives Students to use Cigaretts	***;
-		***																				***;
-		***																				***;
-		***			Purpose: To predict students probability of smoking to identifey	***;
-		***					 key charcteriestics or triggers that cause student to 		***;
-		***					 smoke														***;
-		***																				***;
+		***	Author: Parker Barouch			Date: 11/11/17			***;
+		***						Last Edited: 12/11/17		***;
+		***										***;
+		***					 Title:					***;
+		***	  A Study of the Causal Effects that drives Students to use Cigaretts	***;
+		***										***;
+		***										***;
+		***	Purpose: To predict students probability of smoking to identifey	***;
+		***		 key charcteriestics or triggers that cause student to 		***;
+		***		 smoke								***;
+		***										***;
 		***********************************************************************************;
 
 
